@@ -1,0 +1,23 @@
+span {
+  background: red;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.contents {
+  margin-top: 80px;
+}
+
+li {
+  list-style: none;
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
