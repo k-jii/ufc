@@ -21,3 +21,14 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
+.fighter {
+  vertical-align: left;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+h2 {
+  padding-left: 70px;
+}
