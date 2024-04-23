@@ -1,3 +1,5 @@
+
+
 span {
   background: red;
   padding: 16px;
@@ -22,13 +24,18 @@ a {
   color: inherit;
 }
 
-.fighter {
-  vertical-align: left;
-  margin: 0;
-  padding: 0;
-  text-align: left;
-}
-
 h2 {
   padding-left: 70px;
+}
+
+ul {
+  width: 220px;
+}
+
+p {
+  padding-left: 70px;
+}
+
+.fighter {
+  padding-bottom: 70px;
 }
