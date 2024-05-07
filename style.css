@@ -1,4 +1,6 @@
-
+body {
+  font-family: Verdana, Roboto, "Droid Sans", "游ゴシック", YuGothic, "メイリオ", Meiryo, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "MSPゴシック", sans-serif;
+}
 
 span {
   background: red;
@@ -39,3 +41,4 @@ p {
 .fighter {
   padding-bottom: 70px;
 }
+
