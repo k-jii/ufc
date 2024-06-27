@@ -5,11 +5,11 @@ body {
 span {
   background: red;
   padding: 16px;
-  margin-bottom: 16px;
 }
 
 h1 {
   text-align: center;
+  padding-bottom: 32px;
 }
 
 .contents {
@@ -31,7 +31,7 @@ h2 {
 }
 
 ul {
-  width: 220px;
+  width: 210px;
 }
 
 p {
@@ -40,5 +40,11 @@ p {
 
 .fighter {
   padding-bottom: 70px;
+  width: 33%;
+}
+
+.fighters {
+  display: flex;
+  flex-wrap: wrap;
 }
 
