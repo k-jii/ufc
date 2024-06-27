@@ -2,6 +2,8 @@ body {
   font-family: Verdana, Roboto, "Droid Sans", "游ゴシック", YuGothic, "メイリオ", Meiryo, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "MSPゴシック", sans-serif;
 
   overflow-x: hidden;
+
+  margin: 0;
 }
 
 span {
@@ -54,12 +56,14 @@ p {
   /* 520px以下で表示させたいcssを記述していく */
 body {
   overflow-x: hidden;
+  margin: 0;
 }
 
   .fighter {
     width: 100%;
     overflow-x: hidden;
   }
+  
   .fighters {
     display: flex;none
     flex-wrap: wrap;none
