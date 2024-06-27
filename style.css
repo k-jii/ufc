@@ -52,12 +52,18 @@ p {
 
 @media screen and (max-width: 520px) {
   /* 520px以下で表示させたいcssを記述していく */
+body {
+  overflow-x: hidden;
+}
+
   .fighter {
     width: 100%;
+    overflow-x: hidden;
   }
   .fighters {
     display: flex;none
     flex-wrap: wrap;none
+    overflow-x: hidden;
   }
   
 }
