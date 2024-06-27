@@ -48,3 +48,14 @@ p {
   flex-wrap: wrap;
 }
 
+@media screen and (max-width: 520px) {
+  /* 520px以下で表示させたいcssを記述していく */
+  .fighter {
+    width: 100%;
+  }
+  .fighters {
+    display: flex;none
+    flex-wrap: wrap;none
+  }
+  
+}
