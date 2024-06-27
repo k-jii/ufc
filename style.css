@@ -62,8 +62,10 @@ body {
   .fighter {
     width: 100%;
     overflow-x: hidden;
+    padding-left: 0; 
+    margin-left: 0;
   }
-  
+
   .fighters {
     display: flex;none
     flex-wrap: wrap;none
