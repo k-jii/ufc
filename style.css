@@ -1,9 +1,11 @@
+
 body {
   font-family: Verdana, Roboto, "Droid Sans", "游ゴシック", YuGothic, "メイリオ", Meiryo, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "MSPゴシック", sans-serif;
 
   overflow-x: hidden;
 
   margin: 0;
+  padding: 0;
 }
 
 span {
@@ -30,8 +32,14 @@ a {
   color: inherit;
 }
 
+img {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
 h2 {
-  padding-left: 70px;
+  padding-left: 75px;
 }
 
 ul {
@@ -44,12 +52,16 @@ p {
 
 .fighter {
   padding-bottom: 70px;
-  width: 33%;
+  width: 25%;
 }
 
 .fighters {
   display: flex;
   flex-wrap: wrap;
+}
+
+.small {
+  font-size: 23px;
 }
 
 @media screen and (max-width: 520px) {
@@ -71,5 +83,6 @@ body {
     flex-wrap: wrap;none
     overflow-x: hidden;
   }
+
   
 }
