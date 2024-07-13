@@ -86,3 +86,26 @@ body {
 
   
 }
+
+@media screen and (max-width: 850px) {
+  /* 850px以下で表示させたいcssを記述していく */
+body {
+  overflow-x: hidden;
+  margin: 0;
+}
+
+  .fighter {
+    width: 50%;
+    overflow-x: hidden;
+    padding-left: 0; 
+    margin-left: 0;
+  }
+
+  .fighters {
+    display: flex;none
+    flex-wrap: wrap;none
+    overflow-x: hidden;
+  }
+
+  
+}
