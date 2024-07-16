@@ -64,8 +64,8 @@ p {
   font-size: 23px;
 }
 
-@media screen and (max-width: 768px) {
-  /* 768px以下で表示させたいcssを記述していく */
+@media screen and (max-width: 900px) {
+  /* 900px以下で表示させたいcssを記述していく */
 body {
   overflow-x: hidden;
   margin: 0;
