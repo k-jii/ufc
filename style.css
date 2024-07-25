@@ -40,8 +40,8 @@ img {
 }
 
 h2 {
-  
   text-align: center;
+  padding-left: 40px;
 }
 
 ul {
@@ -85,7 +85,11 @@ body {
     flex-wrap: wrap;none
     overflow-x: hidden;
   }
-
+  
+  h2 {
+    padding-right: 40px;
+  }
+  
   
 }
 
@@ -113,6 +117,9 @@ body {
     padding-left: 10px;
   }
 
+  h2 {
+    padding-right: 40px;
+  }
   
 }
 
