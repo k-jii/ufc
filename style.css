@@ -15,16 +15,17 @@ span {
 
 h1 {
   text-align: center;
-  padding-bottom: 32px;
+  padding-bottom: 20px;
 }
 
 .contents {
-  margin-top: 80px;
+  margin-top: 40px;
 }
 
 li {
   list-style: none;
-  font-size: 30px;
+  font-size: 40px;
+  padding-bottom: 8px;
 }
 
 a {
@@ -45,7 +46,7 @@ h2 {
 }
 
 ul {
-  width: 210px;
+  width: 300px;
   margin: 0 auto;
 }
 
