@@ -1,11 +1,11 @@
-
 body {
-  font-family: Verdana, Roboto, "Droid Sans", "游ゴシック", YuGothic, "メイリオ", Meiryo, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "MSPゴシック", sans-serif;
-
-  overflow-x: hidden;
-
-  margin: 0;
-  padding: 0;
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 16px; /* 基本のフォントサイズ */
+  line-height: 1.6; /* 行間を広めに設定 */
+  color: #333; /* 文字色をやや濃いグレーに設定 */
+  background-color: #f7f7f7; /* 背景色を薄いグレーに設定 */
+  margin: 0; /* デフォルトのマージンをリセット */
+  padding: 0; /* デフォルトのパディングをリセット */
 }
 
 span {
