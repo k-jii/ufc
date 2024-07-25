@@ -36,10 +36,12 @@ img {
   display: block;
   margin: 0;
   padding: 0;
+  margin: 0 auto;
 }
 
 h2 {
-  padding-left: 75px;
+  
+  text-align: center;
 }
 
 ul {
@@ -111,9 +113,6 @@ body {
     padding-left: 10px;
   }
 
-  h2 {
-    padding-left: 75px;
-  }
   
 }
 
