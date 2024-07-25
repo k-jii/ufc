@@ -107,6 +107,13 @@ body {
     overflow-x: hidden;
   }
 
+  p {
+    padding-left: 10px;
+  }
+
+  h2 {
+    padding-left: 75px;
+  }
   
 }
 
