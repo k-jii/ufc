@@ -11,6 +11,7 @@ body {
 span {
   background: red;
   padding: 16px;
+  font-size: 37px;
 }
 
 h1 {
@@ -46,7 +47,7 @@ h2 {
 }
 
 ul {
-  width: 300px;
+  width: 400px;
   margin: 0 auto;
 }
 
