@@ -26,7 +26,7 @@ h1 {
 
 li {
   list-style: none;
-  font-size: 32px;
+  font-size: 34px;
   padding-bottom: 8px;
 }
 
@@ -75,6 +75,19 @@ p {
 
 .small {
   font-size: 23px;
+}
+
+.blink {
+  animation: blink 1s infinite;
+  color: red;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
 }
 
 
@@ -131,6 +144,10 @@ body {
 
   h2 {
     padding-right: 40px;
+  }
+
+  li {
+    font-size: 30px;
   }
   
 }
