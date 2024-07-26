@@ -152,6 +152,7 @@ body {
 
   ul {
     width: 100%;
+    overflow-x: hidden;
   }
 }
 
