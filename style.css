@@ -149,6 +149,9 @@ body {
   li {
     font-size: 30px;
   }
-  
+
+  ul {
+    width: 100%;
+  }
 }
 
