@@ -6,6 +6,7 @@ body {
   background-color: #f7f7f7; /* 背景色を薄いグレーに設定 */
   margin: 0; /* デフォルトのマージンをリセット */
   padding: 0; /* デフォルトのパディングをリセット */
+  overflow-x: hidden;
 }
 
 span {
@@ -75,6 +76,7 @@ p {
 .small {
   font-size: 23px;
 }
+
 
 @media screen and (max-width: 1200px) {
   /* 1200px以下で表示させたいcssを記述していく */
