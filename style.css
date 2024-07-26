@@ -30,6 +30,11 @@ li {
   padding-bottom: 8px;
 }
 
+ul {
+  width: 400px;
+  margin: 0 auto;
+}
+
 a {
   text-decoration: none;
   color: inherit;
@@ -47,10 +52,7 @@ h2 {
   padding-left: 40px;
 }
 
-ul {
-  width: 400px;
-  margin: 0 auto;
-}
+
 
 p {
   font-family: 'Open Sans', Arial, sans-serif; /* 読みやすいフォントファミリー */
@@ -148,6 +150,7 @@ body {
 
   li {
     font-size: 30px;
+    overflow-x: hidden;
   }
 
   ul {
