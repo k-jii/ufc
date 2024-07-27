@@ -31,7 +31,8 @@ li {
 }
 
 ul {
-  width: 400px;
+  width: 100%; /* 幅を100%に設定 */
+  max-width: 400px; /* 最大幅を設定 */
   margin: 0 auto;
 }
 
