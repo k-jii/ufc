@@ -77,7 +77,15 @@ p {
 }
 
 .small {
-  font-size: 23px;
+  font-size: 22.5px;
+}
+
+.small2 {
+  font-size: 22px;
+}
+
+.small3 {
+  font-size: 21.1px;
 }
 
 .blink {
